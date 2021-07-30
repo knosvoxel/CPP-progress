@@ -1,0 +1,4 @@
+﻿  Arrays.cpp
+C:\Dev\Arrays\Arrays.cpp(147,29): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Arrays\Arrays.cpp(154,29): warning C4018: '<': signed/unsigned mismatch
+  Arrays.vcxproj -> C:\Dev\Arrays\Debug\Arrays.exe

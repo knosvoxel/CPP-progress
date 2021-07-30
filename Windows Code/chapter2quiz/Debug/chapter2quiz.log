@@ -1,0 +1,7 @@
+﻿  io.cpp
+  main.cpp
+C:\Dev\chapter2quiz\main.cpp(9,5): error C2065: 'String': undeclared identifier
+C:\Dev\chapter2quiz\main.cpp(9,12): error C2146: syntax error: missing ';' before identifier 'name'
+C:\Dev\chapter2quiz\main.cpp(9,12): error C2065: 'name': undeclared identifier
+C:\Dev\chapter2quiz\main.cpp(11,18): error C2065: 'name': undeclared identifier
+  Generating Code...

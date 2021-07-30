@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Dev\exponents\main.cpp(9,59): error C2297: '<<': illegal, right operand has type 'const char [10]'
+C:\Dev\exponents\main.cpp(9,84): error C2297: '<<': illegal, right operand has type 'const char [9]'
