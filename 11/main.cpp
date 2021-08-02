@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+#include <vector>
+
 void getSinCos(double degrees, double& sinOut, double& cosOut)
 {
     constexpr double pi{3.14159265358979323846};
@@ -16,6 +18,24 @@ void printArray(const int* array, int length)
     for(int index{0}; index < length; ++index)
         std::cout << array[index] << ' ';
 }
+
+int sumTo(int number)
+{
+    int result{0};
+    for(int i{0}; i < number; ++i)
+        result + i;
+    return result;
+}
+
+struct Employee{
+    
+}; 
+
+void printEmployeeName(const Employee& employee);
+
+std::size_t getIndexOfLargestValue(std::vector<int>* array);
+
+const std::string& getElement(std::vector<std::string>&array, std::size_t index);
 
 int main()
 {
