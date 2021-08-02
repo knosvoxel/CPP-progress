@@ -37,6 +37,11 @@ std::size_t getIndexOfLargestValue(std::vector<int>* array);
 
 const std::string& getElement(std::vector<std::string>&array, std::size_t index);
 
+inline int min(int x, int y)
+{
+    return x > y ? y : x;
+}
+
 int main()
 {
     double sin{0.0};
