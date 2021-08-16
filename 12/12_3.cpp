@@ -119,7 +119,5 @@ int main()
     stack.reset();
     stack.print();
     
-    stack.pop();
-
     return 0;
 }
